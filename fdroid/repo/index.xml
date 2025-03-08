@@ -1,1 +1,1 @@
-
+<repo version="1"><application><id>com.example.myapp</id><name>My App</name><summary>Описание вашего приложения</summary><desc>Полное описание вашего приложения.</desc><license>GPL-3.0</license><versionCode>1</versionCode><versionName>1.0</versionName><apkname>com.example.myapp_1.apk</apkname><sdkver>21</sdkver><hash>sha256:bf220bdcf31dfa351d3c799f87b6713be6ec8bbfef9ebfe687df2d03f2fcf185</hash><size>4887944</size><added>2025-03-08</added><lastupdated>2025-03-08</lastupdated></application></repo>
