@@ -7,7 +7,7 @@ Copy the link from the flavor you want to install and add it to your F-Droid cli
 
 | Flavor                    | Link                                                                                                                                                   |
 |---------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Standard                  | `https://breezy-weather.github.io/fdroid-repo/fdroid/repo?fingerprint=3480A7BB2A296D8F98CB90D2309199B5B9519C1B31978DBCD877ADB102AF35EE`                |
+| Standard                  | `https://misha99fr.github.io/fdroid-repo/fdroid/repo?fingerprint=3480A7BB2A296D8F98CB90D2309199B5B9519C1B31978DBCD877ADB102AF35EE`                |
 | Free network sources only | `https://breezy-weather.github.io/fdroid-repo/fdroid-version/fdroid/repo?fingerprint=3480A7BB2A296D8F98CB90D2309199B5B9519C1B31978DBCD877ADB102AF35EE` |
 
 You can also scan the QR code from the flavor you want to install and add the link to your F-Droid client:
